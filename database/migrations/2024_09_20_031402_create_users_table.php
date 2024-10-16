@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('contact_bn')->unique()->nullable();
             $table->unsignedBigInteger('role_id')->index();
             $table->string('password');
-            $table->string('language')->default('en');
+            $table->string('language')->default('fr');
             $table->string('image')->nullable();
             $table->boolean('full_access')->default(false)->comment('1=>yes, 0=>no');
             $table->boolean('status')->default(1)->comment('1=>active 2=>inactive');
