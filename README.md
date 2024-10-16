@@ -1,0 +1,1 @@
+L'objectif de ce projet est de créer une plateforme en ligne où les étudiants peuvent suivre des cours en vidéo et passer une évaluation pour obtenir un certificat. Les instructeurs peuvent s'inscrire, et une fois approuvés par le super administrateur, ils peuvent ajouter des cours. Le projet est divisé en deux sprints pour structurer les étapes de développement.
